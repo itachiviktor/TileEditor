@@ -1,0 +1,1 @@
+{"":[{"classes":[{"String":{}},{"Number":{}},{"Boolean":{}},{"Point":{"x":"Number","y":"Number"}},{"Size":{"width":"Number","height":"Number"}},{"Vector":{"dx":"Number","dy":"Number"}},{"Rectangle":{"size":"Size","location":"Point"}},{"Position":{"location":"Point","direction":"Vector"}},{"Node":{"next":"Node","isFirst":"Boolean","location":"Point","direction":"Vector"}}]}]}
